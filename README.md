@@ -1,5 +1,3 @@
-You`re welcome!
-
-This repository was created for the tutorial for Stepik!
-
-Good luck!
+# Page-Object-Model-Stepik
+My repository for improve auto skills ;)
+Hi everyone!
